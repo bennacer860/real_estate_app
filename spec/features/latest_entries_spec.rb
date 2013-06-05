@@ -1,2 +1,2 @@
-require  'spec/helper'
+require  'spec_helper'
 
